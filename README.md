@@ -1,1 +1,1 @@
-# work_tests_QA
+# repository for Python Training
